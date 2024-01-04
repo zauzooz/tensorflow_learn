@@ -1,0 +1,4 @@
+.conda
+active.ps1
+*/__pycache__
+dataset/
